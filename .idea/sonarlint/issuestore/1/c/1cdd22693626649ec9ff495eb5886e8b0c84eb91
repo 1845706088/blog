@@ -1,0 +1,41 @@
+
+W
+java:S2589"7Remove this expression which always evaluates to "true"(¶²àüÿÿÿÿ8ÜÌ¼Ê.
+b
+java:S1192"GDefine a constant instead of duplicating this literal "status" 3 times.(«ƒØš8Ş©ì.
+^
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(ä½¡øşÿÿÿÿ8¬õãì.
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶÷§ˆ8“€ôÊ.
+Y
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(á”™§8ÜÌ¼Ê.
+a
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(×µ·üÿÿÿÿ8ÜÌ¼Ê.
+o
+java:S3252"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ8ÜÌ¼Ê.
+Y
+java:S4973"9Use the "equals" method if value comparison was intended.(óÑ‹üøÿÿÿÿ8ÜÌ¼Ê.
+b
+java:S1192"GDefine a constant instead of duplicating this literal "typeId" 3 times.(”ÌÙ¢8Ş©ì.
+^
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(™¼¬÷øÿÿÿÿ8ÜÌ¼Ê.
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶÷§ˆ8Ş©ì.
+Y
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(ˆÎø8Ş©ì.
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶÷§ˆ8ÓÍÓ.
+Y
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(«çîş8ÜÌ¼Ê.
+Y
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(¦ÀŒù8Ú„«Ó.
+o
+java:S3252"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ8Ş©ì.
+^
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.( Ş·ïûÿÿÿÿ8ÜÌ¼Ê.
+j
+java:S3027"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(†¡º‹şÿÿÿÿ8ÜÌ¼Ê.
+^
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(ÄåÔìûÿÿÿÿ8«éÁÒ.
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶÷§ˆ8Ç“ÂÓ.
